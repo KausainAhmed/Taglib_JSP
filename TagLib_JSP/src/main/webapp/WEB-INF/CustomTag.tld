@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <taglib>
+<tlibversion>2.0</tlibversion>
+<jspversion>2.0</jspversion>
+<shortname>userinfo</shortname>
+<info>This is information of user</info>
+<uri>http://kausain.com</uri>
+
+  <tag>
+<name>displayUser</name>
+<tagclass>JSP.tagLib.ResultHandler</tagclass>
+      </tag>
+
+
+  </taglib>
